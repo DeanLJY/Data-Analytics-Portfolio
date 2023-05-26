@@ -22,6 +22,8 @@ By leveraging this Jupyter notebook project, we aim to contribute to the ongoing
 
 ## Dataset Dictionary
 
+To access the `Fraud_DataSet.7z` dataset, please install Git LFS on your machine prior to cloning the repository.
+
 | Feature | Description |
 | --- | --- |
 | `step` | Maps a unit of time in the real world. In this case, 1 step is 1 hour of time. Total steps: 744 (30 days simulation). |
